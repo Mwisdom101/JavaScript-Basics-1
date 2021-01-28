@@ -26,7 +26,7 @@ Each of the following steps should be completed by a new group member.
 
 ### Step 4
 
-1. Open *activity-1.html* and add a `<h1>` tag with the tex "Activity 1".
+1. Open *activity-1.html* and add a `<h1>` tag with the text "Activity 1".
 2. Save and view the file in a web browser.
 3. Using `<script>` link to the external javascript file.
 4. Open *basics-1.js* and add `alert("Welcome")`
